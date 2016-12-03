@@ -1,0 +1,95 @@
+.language_css {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #FFFFFF;
+}
+.menu_css {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        color: #6A4541;
+        text-decoration: none;
+}
+
+.menu_over_css {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        color: #6A4541;
+        text-decoration: none;
+}
+
+.button_text_css {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #333333;
+        text-decoration: none;
+}
+
+
+.sitemap_css {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #333333;
+        text-decoration: none;
+}
+
+.sitemap_top_css {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #FFFFFF;
+        text-decoration: none;
+}
+
+
+
+h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        color: #DE535A;
+        text-decoration: none;
+}
+
+.title {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        color: #DC242E;
+        text-decoration: none;
+}
+
+p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #333333;
+        text-decoration: none;
+}
+
+div {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #333333;
+        text-decoration: none;
+}
+
+
+a {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #333333;
+}
+
+.ctext {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #333333;
+        text-decoration: none;
+}
+
+.tr_bg_css {
+        background-color: #ECECEA;
+}
+
